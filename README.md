@@ -1,0 +1,66 @@
+# MYTH & ROID – ACHE in PULSE
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:07.01] I won't make a wish to anyone, just by my own hands
+[00:32.51] 
+[00:18.94] 何もかもが温い この身までもが
+[00:22.67] 甘い夢は 凍りついたのに
+[00:26.35] 誰も彼もいない 私以外に
+[00:30.02] 引き裂かれた心だけ残して
+[00:36.02] 
+[00:34.22] I found out, I found out my destiny
+[00:37.48] But I still feel, I still feel empty inside
+[00:41.19] 嗚呼 声も奪われるのなら
+[00:44.70] もう何もかも lost all meaning
+[00:56.20] 
+[00:51.33] Start it
+[00:52.36] Don't stop my heartache
+[00:54.26] Don't stop my heartbreak 嘆きが枯れるまで
+[00:59.79] Don't stop my heartache
+[01:01.62] Don't stop my heartbreak 痛みが尽きるまで
+[01:18.12] 
+[01:07.18] (Ah-oh-ah-oh-ah-oh-ah) I can't stop this hate
+[01:10.88] (Ah-oh-ah-oh-ah-oh-ah) I won't stop this hate
+[01:14.56] (Ah-oh-ah-oh-ah-oh-ah) don't stop my heartache
+[01:18.13] (Ah-oh-ah-oh-ah-oh-ah) don't stop my heartbreak
+[01:41.63] 
+[01:27.63] (Ah-oh-ah-oh-ah-oh-ah)
+[01:29.24] 過ぎ去る虚無の時間が 何を奪おうと
+[01:32.77] 失ったまま 生きてゆけはしない
+[01:40.27] 
+[01:36.95] I still long, I still long, for what I've lost
+[01:40.79] It should be, it should be here in my hand
+[01:43.88] さあ今も望み止まぬなら もうこのすべて devote myself
+[02:00.38] 
+[01:52.33] Start it
+[01:53.36] Going my own way
+[01:55.10] Going my true way 魂が満ちるまで
+[02:07.60] 
+[02:00.67] (Ah-oh-ah-oh-ah-oh-ah) can't give up my way
+[02:04.48] (Ah-oh-ah-oh-ah-oh-ah) can't give up my life
+[02:08.01] (Ah-oh-ah-oh-ah-oh-ah) going my own way
+[02:11.97] (Ah-oh-ah-oh-ah-oh-ah) going my true way
+[02:31.97] 
+[02:22.00] This pain is me 痛みのすべて 再起への序章に
+[02:33.95] Ah-oh-ah-oh-ah-oh-ah
+[02:35.74] Ah-oh-ah-oh-ah-oh-ah
+[02:37.65] Nobody can stop me now (stop me now)
+[02:55.65] 
+[02:39.57] (Nobody can stop me now)
+[02:43.07] (Nobody can stop me now)
+[02:46.84] (Nobody can stop me now)
+[02:50.47] (Ah-oh-ah-oh-ah-oh-ah)
+[03:01.47] 
+[02:53.17] Start it
+[02:54.18] Don't stop my heartache
+[02:56.03] Don't stop my heartbreak 嘆きが枯れるまで
+[03:01.53] Don't stop my heartache
+[03:03.48] Don't stop my heartbreak 痛みが尽きるまで
+[03:19.98] 
+[03:08.96] (Ah-oh-ah-oh-ah-oh-ah) I can't stop this hate
+[03:12.62] (Ah-oh-ah-oh-ah-oh-ah) I won't stop this hate
+[03:16.37] (Ah-oh-ah-oh-ah-oh-ah) don't stop my heartache
+[03:20.02] (Ah-oh-ah-oh-ah-oh-ah) don't stop my heartbreak
+```
