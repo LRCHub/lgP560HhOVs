@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ACHE in PULSE",
+  "base_artist": "MYTH & ROID",
+  "createdAt": "2026-02-07T04:12:15.630304Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ACHE IN PULSE",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/01_ACHE_IN_PULSE_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ACHE IN PULSE",
+      "artist": "MYTH & ROID",
+      "has_synced": false,
+      "path": "select/02_ACHE_IN_PULSE_MYTH_&_ROID.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ACHE in PULSE",
+      "artist": "MYTH",
+      "has_synced": true,
+      "path": "select/03_ACHE_in_PULSE_MYTH.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ache in Pulse (From \"Arknights: Perish in Frost\") (English)",
+      "artist": "Mewsic",
+      "has_synced": true,
+      "path": "select/04_Ache_in_Pulse_(From__Arknights__Perish_in_Frost_)_(English)_Mewsic.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ACHE in PULSE",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/05_ACHE_in_PULSE_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ACHE in PULSE",
+      "artist": "MYTH & ROID",
+      "has_synced": false,
+      "path": "select/pl_01_ACHE_in_PULSE_MYTH_&_ROID.txt"
+    }
+  ]
+}
